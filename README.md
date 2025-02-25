@@ -1,3 +1,4 @@
+
 # ist303_team-E_Special
 [Google Doc Link](https://docs.google.com/document/d/1AGj9YwZyZUyJDiuea-FdOafA8IYKDKXiPMp5zLLlWQ0/edit?usp=sharing)
 
@@ -12,3 +13,4 @@ Milestone 3 will be more refined and have functionality.
 Meetings will be before class every week, as well as virtual calls as needed (we have time blocked out if we need the time)
 
 We found it easier to update the Google Doc for planning for more syncronous work, and using GitHub to work on the actual code of the project. We have a Discord server for communication.
+
